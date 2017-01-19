@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM-Pattern</string>
+    <string name="title_activity_statistics">StatisticsActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
