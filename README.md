@@ -4,7 +4,7 @@ It is base on mvvm pattern Android sample and use Data Binding library to displa
 
 The Model-View-ViewModel, its intent is to provide a clean separation of concerns between the user interface controls and their logic.
 
-![mvvm pattern](https://github.com/qindachang/MVVM-Pattern/tree/master/pic/IC564167.png)
+![IC564167](https://github.com/qindachang/MVVM-Pattern/blob/master/pic/IC564167.png)
 
 The components are decoupled from each other, thus enabling:
 
