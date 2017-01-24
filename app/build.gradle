@@ -31,4 +31,6 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     compile "com.google.guava:guava:$rootProject.guavaVersion"
+
+    testCompile 'org.mockito:mockito-core:2.6.4'
 }

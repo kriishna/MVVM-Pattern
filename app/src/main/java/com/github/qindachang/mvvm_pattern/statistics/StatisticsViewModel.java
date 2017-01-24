@@ -9,7 +9,7 @@ import android.content.Context;
 public class StatisticsViewModel implements StatisticsContract.ICommand {
 
     private int number;
-    private boolean control;
+    private boolean control = true;
 
     private Context mContext;
     private StatisticsContract.INotifyPropertyChanged mINotifyPropertyChanged;
